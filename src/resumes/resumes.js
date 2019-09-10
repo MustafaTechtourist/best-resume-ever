@@ -1,4 +1,5 @@
 // If you create a new resume, import it here:
+import './techtourist.vue';
 import './material-dark.vue';
 import './left-right.vue';
 import './oblique.vue';

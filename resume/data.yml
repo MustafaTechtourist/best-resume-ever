@@ -1,18 +1,72 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Mustafa
   middle:
-  last: Doe
+  last: Abdul-Rasool
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+position: Embedded Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1988
+  location: Stockholm
 
 experience:
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
 - company: Company A
   position: Developer
   timeperiod: since January 2016
@@ -81,12 +135,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: mustafa.abdul-rasool@techtourist.se
+  phone: +46-(0)76-947 06 23
+  street: Termovägen 94, lgh 1303
+  city: 176 77 Järfälla
+  #website: johndoe.com
+  #github: johnyD
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
